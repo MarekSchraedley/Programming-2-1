@@ -5,5 +5,3 @@ while num2 > 0:
   num1 = num2
   num2 = temp
 print("the gcd is " + str(num1))
-# python Lp510.py
-#ASK for help tmrw
