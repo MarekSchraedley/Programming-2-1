@@ -1,7 +1,7 @@
 #ask coding teacher about error
 from cl702q import *
 def main():
-  try:
+  # try:
     people = []
     with open("data/prog702q.txt", 'r') as f:
       num = int(f.readline())
@@ -20,7 +20,11 @@ def main():
           city = f.readline().strip()
           p = Bus(name, tires, city)
           people.append(p)
-        num = int(f.readline())
+        num = f.readline()
+        if num != "":
+          num = int(num)
+        else: break
+          
       storetruck = 0
       mountbus = 0
       totpeep = 0
@@ -34,16 +38,17 @@ def main():
         #Finish reskinning from this point on and test
       for person in people:
         totpeep += 1
-        if isinstance(person):
-          tottire += person._tires 
         if isinstance(person, Car):
           tot += person.worth
+          tottire += person._tires 
         if isinstance(person, Truck):
-          if 50000 - (person.miles * 0.25) < len(smnum):
+          if 50000 - (person.miles * 0.25) < smnum:
             smnum = 50000 - (person.miles * 0.25)
           storetruck += 50000 - (person.miles * 0.25)
+          tottire += person._tires 
         if isinstance(person, Bus):
           mountbus += 1
+          tottire += person._tires 
           favW = person.city
           if len(favW) > len(large):
             large = favW
@@ -56,8 +61,8 @@ def main():
     print("Largest home destination:", large)
     print("Least valued truck:", smnum)
     print("Tota number of tires:", tottire)
-  except Exception as e:
-    print("Error:", e)
+  # except Exception as e:
+    # print("Error:", e)
 
 
 if __name__ == "__main__":
