@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54b\bin\Debug\prog54b.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54b\bin\Debug\prog54b.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54b\bin\Debug\prog54b.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54b\obj\Debug\prog54b.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54b\obj\Debug\prog54b.Form1.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54b\obj\Debug\prog54b.Properties.Resources.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54b\obj\Debug\prog54b.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54b\obj\Debug\prog54b.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54b\obj\Debug\prog54b.pdb

@@ -1,0 +1,5 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\YourName\bin\Debug\YourName.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\YourName\bin\Debug\YourName.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\YourName\bin\Debug\YourName.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\YourName\obj\Debug\YourName.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\YourName\obj\Debug\YourName.pdb

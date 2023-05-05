@@ -1,0 +1,6 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54cCircle\bin\Debug\prog54cCircle.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54cCircle\bin\Debug\prog54cCircle.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54cCircle\bin\Debug\prog54cCircle.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54cCircle\obj\Debug\prog54cCircle.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54cCircle\obj\Debug\prog54cCircle.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog54cCircle\obj\Debug\prog54cCircle.pdb

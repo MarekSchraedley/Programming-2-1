@@ -1,0 +1,6 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\FavClubConsole\bin\Debug\FavClubConsole.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\FavClubConsole\bin\Debug\FavClubConsole.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\FavClubConsole\bin\Debug\FavClubConsole.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\FavClubConsole\obj\Debug\FavClubConsole.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\FavClubConsole\obj\Debug\FavClubConsole.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\FavClubConsole\obj\Debug\FavClubConsole.pdb

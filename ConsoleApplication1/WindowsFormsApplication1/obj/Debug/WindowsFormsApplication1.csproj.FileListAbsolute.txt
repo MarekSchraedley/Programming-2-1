@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

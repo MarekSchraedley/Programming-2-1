@@ -1,0 +1,5 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\54bconsole\bin\Debug\54bconsole.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\54bconsole\bin\Debug\54bconsole.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\54bconsole\bin\Debug\54bconsole.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\54bconsole\obj\Debug\54bconsole.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\54bconsole\obj\Debug\54bconsole.pdb

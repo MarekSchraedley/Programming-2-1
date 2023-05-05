@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang366b\bin\Debug\Lang366b.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang366b\bin\Debug\Lang366b.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang366b\bin\Debug\Lang366b.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang366b\obj\Debug\Lang366b.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang366b\obj\Debug\Lang366b.Form1.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang366b\obj\Debug\Lang366b.Properties.Resources.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang366b\obj\Debug\Lang366b.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang366b\obj\Debug\Lang366b.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang366b\obj\Debug\Lang366b.pdb

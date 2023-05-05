@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang88a\bin\Debug\Lang88a.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang88a\bin\Debug\Lang88a.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang88a\bin\Debug\Lang88a.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang88a\obj\Debug\Lang88a.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang88a\obj\Debug\Lang88a.Form1.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang88a\obj\Debug\Lang88a.Properties.Resources.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang88a\obj\Debug\Lang88a.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang88a\obj\Debug\Lang88a.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang88a\obj\Debug\Lang88a.pdb

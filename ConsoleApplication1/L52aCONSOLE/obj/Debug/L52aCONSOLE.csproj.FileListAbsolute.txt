@@ -1,0 +1,6 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\L52aCONSOLE\bin\Debug\L52aCONSOLE.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\L52aCONSOLE\bin\Debug\L52aCONSOLE.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\L52aCONSOLE\bin\Debug\L52aCONSOLE.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\L52aCONSOLE\obj\Debug\L52aCONSOLE.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\L52aCONSOLE\obj\Debug\L52aCONSOLE.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\L52aCONSOLE\obj\Debug\L52aCONSOLE.pdb

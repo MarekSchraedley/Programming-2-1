@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\LargeSmall266.pdf\bin\Debug\LargeSmall266.pdf.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\LargeSmall266.pdf\obj\Debug\LargeSmall266.pdf.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\LargeSmall266.pdf\obj\Debug\LargeSmall266.pdf.Form1.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\LargeSmall266.pdf\obj\Debug\LargeSmall266.pdf.Properties.Resources.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\LargeSmall266.pdf\obj\Debug\LargeSmall266.pdf.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\LargeSmall266.pdf\bin\Debug\LargeSmall266.pdf.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\LargeSmall266.pdf\bin\Debug\LargeSmall266.pdf.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\LargeSmall266.pdf\obj\Debug\LargeSmall266.pdf.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\LargeSmall266.pdf\obj\Debug\LargeSmall266.pdf.pdb

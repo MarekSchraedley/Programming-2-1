@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog85cform\bin\Debug\prog85cform.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog85cform\bin\Debug\prog85cform.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog85cform\bin\Debug\prog85cform.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog85cform\obj\Debug\prog85cform.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog85cform\obj\Debug\prog85cform.Form1.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog85cform\obj\Debug\prog85cform.Properties.Resources.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog85cform\obj\Debug\prog85cform.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog85cform\obj\Debug\prog85cform.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\prog85cform\obj\Debug\prog85cform.pdb

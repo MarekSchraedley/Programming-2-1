@@ -1,0 +1,8 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang122a\bin\Debug\Lang122a.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang122a\obj\Debug\Lang122a.Form1.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang122a\obj\Debug\Lang122a.Properties.Resources.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang122a\obj\Debug\Lang122a.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang122a\bin\Debug\Lang122a.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang122a\bin\Debug\Lang122a.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang122a\obj\Debug\Lang122a.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lang122a\obj\Debug\Lang122a.pdb

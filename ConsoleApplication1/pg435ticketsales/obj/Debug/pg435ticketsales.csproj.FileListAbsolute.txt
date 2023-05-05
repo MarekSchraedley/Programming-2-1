@@ -1,0 +1,7 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\pg435ticketsales\bin\Debug\pg435ticketsales.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\pg435ticketsales\obj\Debug\pg435ticketsales.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\pg435ticketsales\obj\Debug\pg435ticketsales.Form1.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\pg435ticketsales\obj\Debug\pg435ticketsales.Form2.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\pg435ticketsales\obj\Debug\pg435ticketsales.Properties.Resources.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\pg435ticketsales\obj\Debug\pg435ticketsales.StudentForm.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\pg435ticketsales\obj\Debug\pg435ticketsales.csproj.GenerateResource.Cache

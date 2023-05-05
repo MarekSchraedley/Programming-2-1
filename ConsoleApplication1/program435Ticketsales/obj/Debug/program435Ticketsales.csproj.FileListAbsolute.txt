@@ -1,0 +1,11 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\bin\Debug\program435Ticketsales.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\bin\Debug\program435Ticketsales.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\bin\Debug\program435Ticketsales.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\obj\Debug\program435Ticketsales.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\obj\Debug\program435Ticketsales.Form1.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\obj\Debug\program435Ticketsales.Form2.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\obj\Debug\program435Ticketsales.Form3.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\obj\Debug\program435Ticketsales.Properties.Resources.resources
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\obj\Debug\program435Ticketsales.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\obj\Debug\program435Ticketsales.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\program435Ticketsales\obj\Debug\program435Ticketsales.pdb

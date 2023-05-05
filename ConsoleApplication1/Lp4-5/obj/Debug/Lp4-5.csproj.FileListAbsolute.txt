@@ -1,0 +1,6 @@
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lp4-5\bin\Debug\Lp4-5.exe.config
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lp4-5\bin\Debug\Lp4-5.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lp4-5\bin\Debug\Lp4-5.pdb
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lp4-5\obj\Debug\Lp4-5.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lp4-5\obj\Debug\Lp4-5.exe
+C:\Users\schraedl.m\Source\Repos\Programming-2-1\ConsoleApplication1\Lp4-5\obj\Debug\Lp4-5.pdb
