@@ -45,7 +45,13 @@ namespace program435Ticketsales
             decimal decTotal = 0.0m;
 
             intNumTickets = int.Parse(textBox1.Text);
+            decTicketCost = intNumTickets * 7;
+            decSalesTax = CalcTax(decTicketCost);
+            decTotal = decTicketCost + decSalesTax;
 
+            label1.Text = decTicketCost.ToString("$.00");
+            label2.Text = decSalesTax.ToString("$.00");
+            label3.Text = decTotal.ToString("$.00");
         }
     }
 }

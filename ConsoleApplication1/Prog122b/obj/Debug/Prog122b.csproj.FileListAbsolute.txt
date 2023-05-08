@@ -1,0 +1,5 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\bin\Debug\Prog122b.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\obj\Debug\Prog122b.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\obj\Debug\Prog122b.Form1.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\obj\Debug\Prog122b.Properties.Resources.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\obj\Debug\Prog122b.csproj.GenerateResource.Cache
