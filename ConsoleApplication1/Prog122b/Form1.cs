@@ -19,8 +19,22 @@ namespace Prog122b
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int lcv = 0; lcv < rand.Next(5, 11); lcv++)
-            {//unfinished
+            string msg = " ";
+            for (int lcv = 0; lcv <= 40; lcv++)
+            {
+                msg = lcv + " " + (lcv * 4);
+                listBox1.Items.Add(msg);
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

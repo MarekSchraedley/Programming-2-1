@@ -1,0 +1,5 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\StrInterview7\bin\Debug\StrInterview7.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\StrInterview7\bin\Debug\StrInterview7.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\StrInterview7\bin\Debug\StrInterview7.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\StrInterview7\obj\Debug\StrInterview7.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\StrInterview7\obj\Debug\StrInterview7.pdb

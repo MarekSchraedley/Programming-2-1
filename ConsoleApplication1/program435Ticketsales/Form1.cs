@@ -31,5 +31,10 @@ namespace program435Ticketsales
             frm.Show();
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

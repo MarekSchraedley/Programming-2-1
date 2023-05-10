@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg273massandweight\bin\Debug\pg273massandweight.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg273massandweight\bin\Debug\pg273massandweight.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg273massandweight\bin\Debug\pg273massandweight.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg273massandweight\obj\Debug\pg273massandweight.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg273massandweight\obj\Debug\pg273massandweight.Form1.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg273massandweight\obj\Debug\pg273massandweight.Properties.Resources.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg273massandweight\obj\Debug\pg273massandweight.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg273massandweight\obj\Debug\pg273massandweight.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg273massandweight\obj\Debug\pg273massandweight.pdb

@@ -3,3 +3,7 @@ C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\obj\Deb
 C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\obj\Debug\Prog122b.Form1.resources
 C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\obj\Debug\Prog122b.Properties.Resources.resources
 C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\obj\Debug\Prog122b.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\bin\Debug\Prog122b.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\bin\Debug\Prog122b.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\obj\Debug\Prog122b.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Prog122b\obj\Debug\Prog122b.pdb

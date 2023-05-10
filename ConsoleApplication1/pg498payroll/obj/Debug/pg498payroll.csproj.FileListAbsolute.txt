@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg498payroll\bin\Debug\pg498payroll.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg498payroll\obj\Debug\pg498payroll.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg498payroll\obj\Debug\pg498payroll.Form1.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg498payroll\obj\Debug\pg498payroll.Properties.Resources.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg498payroll\obj\Debug\pg498payroll.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg498payroll\bin\Debug\pg498payroll.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg498payroll\bin\Debug\pg498payroll.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg498payroll\obj\Debug\pg498payroll.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg498payroll\obj\Debug\pg498payroll.pdb

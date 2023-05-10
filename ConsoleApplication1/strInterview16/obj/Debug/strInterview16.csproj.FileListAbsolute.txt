@@ -1,0 +1,6 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\strInterview16\bin\Debug\strInterview16.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\strInterview16\obj\Debug\strInterview16.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\strInterview16\bin\Debug\strInterview16.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\strInterview16\bin\Debug\strInterview16.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\strInterview16\obj\Debug\strInterview16.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\strInterview16\obj\Debug\strInterview16.pdb

@@ -1,0 +1,10 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg347Sum\bin\Debug\Pg347Sum.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg347Sum\bin\Debug\Pg347Sum.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg347Sum\bin\Debug\Pg347Sum.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg347Sum\obj\Debug\Pg347Sum.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg347Sum\obj\Debug\Pg347Sum.Form1.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg347Sum\obj\Debug\Pg347Sum.InputNeeded.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg347Sum\obj\Debug\Pg347Sum.Properties.Resources.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg347Sum\obj\Debug\Pg347Sum.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg347Sum\obj\Debug\Pg347Sum.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg347Sum\obj\Debug\Pg347Sum.pdb
