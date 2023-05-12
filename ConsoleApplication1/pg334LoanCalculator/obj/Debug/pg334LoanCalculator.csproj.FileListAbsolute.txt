@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg334LoanCalculator\bin\Debug\pg334LoanCalculator.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg334LoanCalculator\bin\Debug\pg334LoanCalculator.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg334LoanCalculator\bin\Debug\pg334LoanCalculator.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg334LoanCalculator\obj\Debug\pg334LoanCalculator.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg334LoanCalculator\obj\Debug\pg334LoanCalculator.Form1.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg334LoanCalculator\obj\Debug\pg334LoanCalculator.Properties.Resources.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg334LoanCalculator\obj\Debug\pg334LoanCalculator.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg334LoanCalculator\obj\Debug\pg334LoanCalculator.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg334LoanCalculator\obj\Debug\pg334LoanCalculator.pdb

@@ -3,3 +3,7 @@ C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg535CatchMe\obj
 C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg535CatchMe\obj\Debug\pg535CatchMe.Form1.resources
 C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg535CatchMe\obj\Debug\pg535CatchMe.Properties.Resources.resources
 C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg535CatchMe\obj\Debug\pg535CatchMe.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg535CatchMe\bin\Debug\pg535CatchMe.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg535CatchMe\bin\Debug\pg535CatchMe.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg535CatchMe\obj\Debug\pg535CatchMe.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\pg535CatchMe\obj\Debug\pg535CatchMe.pdb

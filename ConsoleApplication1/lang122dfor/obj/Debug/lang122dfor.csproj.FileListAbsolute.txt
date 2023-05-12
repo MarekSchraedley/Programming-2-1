@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\lang122dfor\bin\Debug\lang122dfor.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\lang122dfor\bin\Debug\lang122dfor.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\lang122dfor\bin\Debug\lang122dfor.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\lang122dfor\obj\Debug\lang122dfor.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\lang122dfor\obj\Debug\lang122dfor.Form1.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\lang122dfor\obj\Debug\lang122dfor.Properties.Resources.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\lang122dfor\obj\Debug\lang122dfor.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\lang122dfor\obj\Debug\lang122dfor.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\lang122dfor\obj\Debug\lang122dfor.pdb
