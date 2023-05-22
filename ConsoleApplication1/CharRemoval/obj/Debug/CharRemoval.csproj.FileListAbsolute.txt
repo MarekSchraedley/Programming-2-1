@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\CharRemoval\bin\Debug\CharRemoval.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\CharRemoval\bin\Debug\CharRemoval.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\CharRemoval\bin\Debug\CharRemoval.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\CharRemoval\obj\Debug\CharRemoval.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\CharRemoval\obj\Debug\CharRemoval.Form1.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\CharRemoval\obj\Debug\CharRemoval.Properties.Resources.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\CharRemoval\obj\Debug\CharRemoval.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\CharRemoval\obj\Debug\CharRemoval.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\CharRemoval\obj\Debug\CharRemoval.pdb

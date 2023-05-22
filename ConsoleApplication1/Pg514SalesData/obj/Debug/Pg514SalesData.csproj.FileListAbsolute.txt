@@ -1,0 +1,9 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg514SalesData\bin\Debug\Pg514SalesData.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg514SalesData\obj\Debug\Pg514SalesData.csprojResolveAssemblyReference.cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg514SalesData\obj\Debug\Pg514SalesData.Form1.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg514SalesData\obj\Debug\Pg514SalesData.Properties.Resources.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg514SalesData\obj\Debug\Pg514SalesData.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg514SalesData\bin\Debug\Pg514SalesData.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg514SalesData\bin\Debug\Pg514SalesData.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg514SalesData\obj\Debug\Pg514SalesData.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Pg514SalesData\obj\Debug\Pg514SalesData.pdb

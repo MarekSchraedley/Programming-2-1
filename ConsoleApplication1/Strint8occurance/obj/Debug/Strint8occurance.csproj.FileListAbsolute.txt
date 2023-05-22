@@ -1,0 +1,8 @@
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Strint8occurance\bin\Debug\Strint8occurance.exe.config
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Strint8occurance\bin\Debug\Strint8occurance.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Strint8occurance\bin\Debug\Strint8occurance.pdb
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Strint8occurance\obj\Debug\Strint8occurance.Form1.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Strint8occurance\obj\Debug\Strint8occurance.Properties.Resources.resources
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Strint8occurance\obj\Debug\Strint8occurance.csproj.GenerateResource.Cache
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Strint8occurance\obj\Debug\Strint8occurance.exe
+C:\Users\schraedl.m\Desktop\Programming-2-1\ConsoleApplication1\Strint8occurance\obj\Debug\Strint8occurance.pdb
